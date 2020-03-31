@@ -1,6 +1,5 @@
 # FP-Markdown
 **Pedro Ferreira**  
-
 **`2190747`**
 
 ## Linguagens de programação conhecidas:
