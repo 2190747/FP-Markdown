@@ -1,6 +1,6 @@
 # FP-Markdown
 **Nome do Estudante**
-  **`Numero do estudante`**
+**`Numero do estudante`**
 
 ## Linguagens de programação conhecidas:
 
@@ -8,6 +8,8 @@
 * **JavaScript**
 * **Python**
 * **...**
+
+---
 
 > Metodologias de Desenvolvimento de Software @ 2020
 
